@@ -1,6 +1,7 @@
 import bigShoe1 from './big-shoe1.png'
 import bigShoe2 from './big-shoe2.png'
 import bigShoe3 from './big-shoe3.png'
+import openBook from './open_book.png'
 
 import customer1 from './customer1.jpeg'
 import customer2 from './customer2.svg'
@@ -15,6 +16,7 @@ import shoe5 from './shoe5.svg'
 import shoe6 from './shoe6.svg'
 import shoe7 from './shoe7.svg'
 import shoe8 from './shoe8.svg'
+import image from './image.svg'
 
 import thumbnailBackground from './thumbnail-background.svg'
 import thumbnailShoe1 from './thumbnail-shoe1.svg'
@@ -25,6 +27,7 @@ export {
     bigShoe1,
     bigShoe2,
     bigShoe3,
+    openBook,
 
     customer1,
     customer2,
@@ -38,7 +41,7 @@ export {
     shoe6,
     shoe7,
     shoe8,
-
+    image,
     thumbnailBackground,
     thumbnailShoe1,
     thumbnailShoe2,
