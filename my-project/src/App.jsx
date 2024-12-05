@@ -1,4 +1,4 @@
-import Nav from "../components/Nav";
+import Nav from "./components/Nav";
 import CustomerReviews from "./sections/CustomerReviews";
 import { Footer } from "./sections/Footer";
 import Hero from "./sections/Hero";
