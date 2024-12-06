@@ -2,6 +2,11 @@ import bigShoe1 from './big-shoe1.png'
 import bigShoe2 from './big-shoe2.png'
 import bigShoe3 from './big-shoe3.png'
 import openBook from './open_book.png'
+import computerBooks from './computerbooks.png'
+import introToSql from './introToSql.png'
+import coreJavaBook from './coreJavaBook.jpg'
+
+
 
 import customer1 from './customer1.jpeg'
 import customer2 from './customer2.svg'
@@ -28,6 +33,10 @@ export {
     bigShoe2,
     bigShoe3,
     openBook,
+    introToSql,
+    coreJavaBook,
+
+    computerBooks,
 
     customer1,
     customer2,
