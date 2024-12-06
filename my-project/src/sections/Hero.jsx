@@ -3,7 +3,7 @@ import { arrowRight } from "../assets/icons";
 import { bigShoe1, image, openBook } from "../assets/images";
 import Button from "../components/Button";
 import ShoeCard from "../components/ShoeCard";
-import { shoes, statistics } from "../constants";
+import { books, shoes, statistics } from "../constants";
 
 const  Hero = () => {
   const [bigShoeImg, setBigShoeImg]=useState(bigShoe1)
