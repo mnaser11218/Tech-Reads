@@ -1,12 +1,12 @@
 import { useState } from "react";
 import { arrowRight } from "../assets/icons";
-import { bigShoe1, image, openBook } from "../assets/images";
+import { image, openBook, github, introToSql } from "../assets/images";
 import Button from "../components/Button";
 import ShoeCard from "../components/ShoeCard";
 import { books, shoes, statistics } from "../constants";
 
 const  Hero = () => {
-  const [bigShoeImg, setBigShoeImg]=useState(bigShoe1)
+  const [bigShoeImg, setBigShoeImg]=useState(introToSql)
   return (
     <section
     id="home"
@@ -38,7 +38,7 @@ const  Hero = () => {
       </div>
 
       <div className="relative flex-1 flex justify-center items-center xl:min-h-screen max-xl:py-40 bg-primary bg-hero bg-cover bg-center">
-       
+      
         <img
         src={bigShoeImg}
         alt={'shoe collection'}
