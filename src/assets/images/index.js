@@ -4,6 +4,7 @@ import bigShoe3 from './big-shoe3.png'
 import openBook from './open_book.png'
 import computerBooks from './computerbooks.png'
 import introToSql from './introToSql.png'
+import introToJs from './intro-to-javascript.png'
 import coreJavaBook from './coreJavaBook.jpg'
 
 
@@ -28,7 +29,7 @@ import thumbnailBackground from './thumbnail-background.svg'
 import thumbnailShoe1 from './thumbnail-shoe1.svg'
 import thumbnailShoe2 from './thumbnail-shoe2.svg'
 import thumbnailShoe3 from './thumbnail-shoe3.svg'
-
+import github from './github.png'
 export {
     bigShoe1,
     bigShoe2,
@@ -37,6 +38,8 @@ export {
     introToSql,
     coreJavaBook,
     coreJavaBooksvg,
+    introToJs,
+    github,
 
     computerBooks,
 
