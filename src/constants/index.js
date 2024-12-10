@@ -1,5 +1,5 @@
 import { facebook, instagram, shieldTick, support, truckFast, twitter } from "../assets/icons";
-import { bigShoe1, bigShoe2, bigShoe3, coreJavaBook, coreJavaBooksvg, customer1, customer2, github, introToJs, introToSql, shoe4, shoe5, shoe6, shoe7, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3 } from "../assets/images";
+import { bigShoe1, bigShoe2, bigShoe3, codeInterview2, coreJavaBook, coreJavaBooksvg, crackingCodeInterview, customer1, customer2, github, introToJs, introToSql, shoe4, shoe5, shoe6, shoe7, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3 } from "../assets/images";
 
 export const navLinks = [
     { href: "#home", label: "Home" },
@@ -61,9 +61,9 @@ export const statistics = [
 
 export const products = [
     {
-        imgURL: shoe4,
-        name: "Nike Air Jordan-01",
-        price: "$200.20",
+        imgURL: codeInterview2,
+        name: "Cracking the Coding Interview",
+        price: "$17.99",
     },
     {
         imgURL: shoe5,
