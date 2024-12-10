@@ -22,6 +22,8 @@ import comptAndBooks from './computerandbooks.webp'
 import cleanCode from './cleancodeBook.jpg'
 import programmingC from './programmingC.png'
 import introToPython from './introToPython.png'
+import laptopBooks from './comAndBookks.png'
+import layeredBooks from './layeredbooks.png'
 
 import customer1 from './customer1.jpeg'
 import customer2 from './customer2.svg'
@@ -78,6 +80,8 @@ roadToReact,
     masteringCode,
     programmingC,
     introToPython,
+    laptopBooks,
+    layeredBooks,
 
     customer1,
     customer2,
