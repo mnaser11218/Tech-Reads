@@ -1,4 +1,4 @@
-import {littleBook} from '../assets/images'
+import {codingbooks, littleBook} from '../assets/images'
 import {hamburger} from '../assets/icons'
 import { navLinks } from '../constants'
 const Nav = () => {

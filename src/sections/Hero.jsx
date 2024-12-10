@@ -1,10 +1,10 @@
 import { useState } from "react";
 import { arrowRight } from "../assets/icons";
-import { image, openBook, github, introToSql } from "../assets/images";
+import { introToSql } from "../assets/images";
 import Button from "../components/Button";
 import ShoeCard from "../components/ShoeCard";
 import { books, shoes, statistics } from "../constants";
-
+// rgb(117, 132, 106)
 const  Hero = () => {
   const [bookImage, setBookImage]=useState(introToSql)
   return (
@@ -13,13 +13,13 @@ const  Hero = () => {
     className="w-full flex xl:flex-row flex-col justify-center min-h-screen gap-10 max-container "
     >
       <div className="relative xl:w-2/5 flex flex-col justify-center items-start w-full max-xl:padding-x pt-28">
-        <p className="text-xl font-montserrat text-coral-red">Your Personal Developer Library</p>
+        {/* <p className="text-xl font-montserrat text-coral-red">Your Personal Developer Library</p> */}
         <h1 className="mt-10 font-palanquin text-8xl max-sm:text-[72px] max-sm:leading-[82] font-bold">
-          <span className="xl:bg-white xl:whitespace-nowrap relative z-10 pr-10">The New Arrival </span>
+          <span className="xl:bg-white xl:whitespace-nowrap relative z-10 pr-10">Develop Your  </span>
           <br />
-          <span className="text-coral-red inline-block mt-3">Nike  </span> Shoes
+          <span className="text-coral-teal inline-block mt-3">Tech  </span> Library
         </h1>
-        <p className="font-montserrat text-slate-gray text-lg leading- mt-6 mb-14 sm:max-w-sm">Discover stylish Nike arrivals, quality comfort, and innovation for your active life.</p>
+        <p className="font-montserrat text-slate-gray text-lg leading- mt-6 mb-14 sm:max-w-sm">Explore and purchase top books for developers: React, Java, SpringBoot, MySQL, and much more!</p>
       <Button label="Shop now"  iconURL={arrowRight}/>
 
       <div className="flex justify-starts items-start flex-wrap w-full mt-20 gap-16">
