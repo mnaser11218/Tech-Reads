@@ -1,5 +1,5 @@
 import { copyrightSign } from "../assets/icons"
-import { footerLogo } from "../assets/images"
+import { footerLogo, twobooks } from "../assets/images"
 import { footerLinks, socialMedia } from "../constants"
 
 export const Footer = () => {
@@ -10,9 +10,9 @@ export const Footer = () => {
     <div className="flex flex-col items-start">
       <a href="">
 
-        <img src={footerLogo} alt="" width={150} height={46} />
+        <img src={twobooks} alt="" width={100} height={46} />
       </a>
-    <p className="mt-6 text-base leading- font-montserrat text-white-400 sm:max-w-sm">Get shoes ready for the new term at your nearest Nike store. Find Your perfect Size In Store. Get Rewards</p>
+    <p className="mt-6 text-base leading- font-montserrat text-white-400 sm:max-w-sm">Get ready for the new term at your local bookstore. Find the perfect books for your studies and enjoy great rewards!</p>
 
     <div className="flex items-center mt-8 gap-5">
     {socialMedia.map(icon=>(
