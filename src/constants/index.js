@@ -1,5 +1,5 @@
 import { facebook, instagram, shieldTick, support, truckFast, twitter } from "../assets/icons";
-import { bigShoe1, bigShoe2, bigShoe3, cleanCode, codeInterview2, coreJava2, coreJavaBook, coreJavaBooksvg, crackingCodeInterview, customer1, customer2, github, introToJs, introToPython, introToSql, learningSpringBoot, masteringCode, masteringReact, programmingC, programmingInJava, reactReady, shoe4, shoe5, shoe6, shoe7, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3 } from "../assets/images";
+import { bigShoe1, bigShoe2, bigShoe3, cleanCode, codeInterview2, coreJava2, coreJavaBook, coreJavaBooksvg, crackingCodeInterview, customer1, customer2, customer_1, customer_2, github, introToJs, introToPython, introToSql, learningSpringBoot, masteringCode, masteringReact, programmingC, programmingInJava, reactReady, shoe4, shoe5, shoe6, shoe7, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3 } from "../assets/images";
 
 export const navLinks = [
     { href: "#home", label: "Home" },
@@ -102,14 +102,14 @@ export const services = [
 
 export const reviews = [
     {
-        imgURL: customer1,
-        customerName: 'Morich Brown',
+        imgURL: customer_1,
+        customerName: 'Brian Andrew',
         rating: 4.5,
         feedback: "The quality of books and fair prices far exceeded my expectations! I highly recommend Tech-Reads!!"
     },
     {
-        imgURL: customer1,
-        customerName: 'Lota Mongeskar',
+        imgURL: customer_2,
+        customerName: 'Larry bird',
         rating: 4.5,
         feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
     }

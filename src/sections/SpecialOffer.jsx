@@ -1,11 +1,11 @@
 import { arrowRight } from "../assets/icons";
-import { offer, openBook, computerBooks, introToSql } from "../assets/images";
+import { offer, openBook, computerBooks, introToSql, library, bundleBooks } from "../assets/images";
 import Button from "../components/Button";
 const SpecialOffer = () => {
   return (
     <section className="flex justify-wrap items-center max-xl:flex-col-reverse gap-10 max-container">
       <div className="flex-1">
-      <img src={computerBooks} alt="" width={773} height={687} className="object-contain w-full" />
+      <img src={bundleBooks} alt="" width={773} height={687} className="object-contain w-full" />
       </div>
     <div
   className="flex flex-1 flex-col"
