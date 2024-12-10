@@ -24,6 +24,8 @@ import programmingC from './programmingC.png'
 import introToPython from './introToPython.png'
 import laptopBooks from './comAndBookks.png'
 import layeredBooks from './layeredbooks.png'
+import booksicon from './booksicon.png'
+import bookmouse from './booksmouse.png'
 
 import customer1 from './customer1.jpeg'
 import customer2 from './customer2.svg'
@@ -43,6 +45,9 @@ import shoe8 from './shoe8.svg'
 import image from './image.svg'
 import coreJavaBooksvg from './coreJavaBook.svg'
 import masteringCode from './masteringcode.jpeg'
+import stacks from './stacks.png'
+import stacks2 from './stack2.jpg'
+import twobooks from './twobooks.png'
 
 
 import thumbnailBackground from './thumbnail-background.svg'
@@ -82,6 +87,11 @@ roadToReact,
     introToPython,
     laptopBooks,
     layeredBooks,
+    booksicon,
+    bookmouse,
+    stacks,
+    stacks2,
+    twobooks,
 
     customer1,
     customer2,
