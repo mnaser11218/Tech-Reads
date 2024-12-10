@@ -1,4 +1,4 @@
-import {headerLogo} from '../assets/images'
+import {computerAndBooks, headerLogo, introToSql, littleBook, openPages, overLooking} from '../assets/images'
 import {hamburger} from '../assets/icons'
 import { navLinks } from '../constants'
 const Nav = () => {
@@ -7,7 +7,7 @@ const Nav = () => {
       <nav className='flex justify-between items-center max-container'>
         <a href="/">
           <img 
-          src={headerLogo}
+          src={littleBook}
           alt="Logo"
           width={130}
           height={29}
