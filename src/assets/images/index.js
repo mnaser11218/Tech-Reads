@@ -9,6 +9,8 @@ import coreJavaBook from './coreJavaBook.jpg'
 import computerAndBooks from './computer-books.jpg'
 import openPages from './openpages.png'
 import codingbooks from './codingbooks.png'
+import crackingCodeInterview from './crckingCodeInterview.png'
+import codeInterview2 from './codeInterview2.webp'
 
 
 import customer1 from './customer1.jpeg'
@@ -50,6 +52,9 @@ export {
     overLooking,
     littleBook,
     codingbooks,
+    crackingCodeInterview,
+    codeInterview2,
+
 
     computerBooks,
 
