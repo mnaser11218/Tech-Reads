@@ -1,4 +1,4 @@
-import { comptAndBooks, shoe8 } from "../assets/images";
+import { comptAndBooks, laptopBooks, layeredBooks, shoe8 } from "../assets/images";
 import Button from "../components/Button";
 
 const SuperQuality = () => {
@@ -25,7 +25,7 @@ className="flex justify-between items-center max-lg:flex-col gap-10 w-full max-c
 </div>
   </div>
   <div className="flex-1 flex justify-center items-center">
-    <img src={comptAndBooks} alt="shoe 8" width={570} height={522} className="object-contain" />
+    <img src={layeredBooks} alt="shoe 8" width={570} height={522} className="object-contain" />
 
   </div>
 </section>  )
