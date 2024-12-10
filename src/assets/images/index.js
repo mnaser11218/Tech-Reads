@@ -26,6 +26,10 @@ import laptopBooks from './comAndBookks.png'
 import layeredBooks from './layeredbooks.png'
 import booksicon from './booksicon.png'
 import bookmouse from './booksmouse.png'
+import customer_1 from './customerreview1.webp'
+import customer_2 from './customer_2.avif'
+import library from './library.png'
+import bundleBooks from './bundleOfBooks.png'
 
 import customer1 from './customer1.jpeg'
 import customer2 from './customer2.svg'
@@ -92,9 +96,12 @@ roadToReact,
     stacks,
     stacks2,
     twobooks,
-
+    customer_1,
     customer1,
     customer2,
+    customer_2,
+    library,
+    bundleBooks,
 
     footerLogo,
     headerLogo,
