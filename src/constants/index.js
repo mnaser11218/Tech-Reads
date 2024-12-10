@@ -105,7 +105,7 @@ export const reviews = [
         imgURL: customer1,
         customerName: 'Morich Brown',
         rating: 4.5,
-        feedback: "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!"
+        feedback: "The quality of books and fair prices far exceeded my expectations! I highly recommend Tech-Reads!!"
     },
     {
         imgURL: customer1,
@@ -118,14 +118,14 @@ export const reviews = [
 
 export const footerLinks = [
     {
-        title: "Products",
+        title: "Topics",
         links: [
-            { name: "Air Force 1", link: "/" },
-            { name: "Air Max 1", link: "/" },
-            { name: "Air Jordan 1", link: "/" },
-            { name: "Air Force 2", link: "/" },
-            { name: "Nike Waffle Racer", link: "/" },
-            { name: "Nike Cortez", link: "/" },
+            { name: "Frontend", link: "/" },
+            { name: "Backend", link: "/" },
+            { name: "Cloud computing", link: "/" },
+            { name: "Database", link: "/" },
+            { name: "Frameworks", link: "/" },
+            { name: "Web hosting", link: "/" },
         ],
     },
     {
@@ -141,8 +141,8 @@ export const footerLinks = [
     {
         title: "Get in touch",
         links: [
-            { name: "customer@nike.com", link: "mailto:customer@nike.com" },
-            { name: "+92554862354", link: "tel:+92554862354" },
+            { name: "customer@techreads.com", link: "mailto:customer@techreads.com" },
+            { name: "Mohammed Naser", link: "tel:+123456789" },
         ],
     },
 ];

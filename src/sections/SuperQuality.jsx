@@ -13,11 +13,11 @@ className="flex justify-between items-center max-lg:flex-col gap-10 w-full max-c
 
   
         <h2 className="font-palanquin text-4xl capitalize font-bold lg:max-w-lg">
-          We provide you <span className="text-coral-red">Super </span>
-          <span className="text-coral-red">Quality </span>
-         Shoes
+          We provide you <span className="text-coral-teal">Super </span>
+          <span className="text-coral-green">Quality </span>
+         Tech-Reads
         </h2>
-        <p className="mt-4 lg:max-w-lg info-text">Ensuring premium comfort and style, our meticulously crafted footwear is designed to elevate your experience, providing you with unmatched quality, innovation, and a touch of elegance.</p>
+        <p className="mt-4 lg:max-w-lg info-text">Let us help you build your personalized tech library. Whether you're learning Java, React, MySQL, JavaScript, TypeScript, AWS, cloud computing, or any other tech field, we’re here to create the perfect go-to resource for you.</p>
      <p className="mt-6 lg:max-w-lg info-text">Our dedication to detail and excellence ensures your satisfaction
 </p>
 <div className="mt-11">
