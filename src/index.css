@@ -55,4 +55,14 @@
   .info-text {
     @apply font-montserrat text-slate-gray text-lg leading-7;
   }
+
+  .green-text{
+    @apply text-green-600; 
+    color: rgb(117, 132, 106 )
+  }
+
+  .green-background{
+    @apply 
+    background-color: rgb(117, 132, 106)
+  }
 }

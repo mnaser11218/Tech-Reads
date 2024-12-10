@@ -8,6 +8,7 @@ import introToJs from './intro-to-javascript.png'
 import coreJavaBook from './coreJavaBook.jpg'
 import computerAndBooks from './computer-books.jpg'
 import openPages from './openpages.png'
+import codingbooks from './codingbooks.png'
 
 
 import customer1 from './customer1.jpeg'
@@ -48,6 +49,7 @@ export {
     openPages,
     overLooking,
     littleBook,
+    codingbooks,
 
     computerBooks,
 
