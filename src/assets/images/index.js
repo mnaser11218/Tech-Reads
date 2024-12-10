@@ -6,7 +6,8 @@ import computerBooks from './computerbooks.png'
 import introToSql from './introToSql.png'
 import introToJs from './intro-to-javascript.png'
 import coreJavaBook from './coreJavaBook.jpg'
-
+import computerAndBooks from './computer-books.jpg'
+import openPages from './openPages.png'
 
 
 import customer1 from './customer1.jpeg'
@@ -14,6 +15,8 @@ import customer2 from './customer2.svg'
 
 import footerLogo from './footer-logo.svg'
 import headerLogo from './header-logo.svg'
+import overLooking from './overlooking.png'
+import littleBook from './littlebook.svg'
 
 import offer from './offer.svg'
 
@@ -24,6 +27,7 @@ import shoe7 from './shoe7.svg'
 import shoe8 from './shoe8.svg'
 import image from './image.svg'
 import coreJavaBooksvg from './coreJavaBook.svg'
+
 
 import thumbnailBackground from './thumbnail-background.svg'
 import thumbnailShoe1 from './thumbnail-shoe1.svg'
@@ -40,6 +44,10 @@ export {
     coreJavaBooksvg,
     introToJs,
     github,
+    computerAndBooks,
+    openPages,
+    overLooking,
+    littleBook,
 
     computerBooks,
 
