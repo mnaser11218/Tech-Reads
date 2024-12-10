@@ -1,4 +1,4 @@
-import {computerAndBooks, headerLogo, introToSql, littleBook, openPages, overLooking} from '../assets/images'
+import {littleBook} from '../assets/images'
 import {hamburger} from '../assets/icons'
 import { navLinks } from '../constants'
 const Nav = () => {
