@@ -1,12 +1,12 @@
 import { useState } from "react";
 import { arrowRight } from "../assets/icons";
-import { introToSql } from "../assets/images";
+import { introToSql, reactReady, roadToReact } from "../assets/images";
 import Button from "../components/Button";
 import ShoeCard from "../components/ShoeCard";
 import { books, shoes, statistics } from "../constants";
 // rgb(117, 132, 106)
 const  Hero = () => {
-  const [bookImage, setBookImage]=useState(introToSql)
+  const [bookImage, setBookImage]=useState(roadToReact)
   return (
     <section
     id="home"

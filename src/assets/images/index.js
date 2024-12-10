@@ -11,7 +11,17 @@ import openPages from './openpages.png'
 import codingbooks from './codingbooks.png'
 import crackingCodeInterview from './crckingCodeInterview.png'
 import codeInterview2 from './codeInterview2.webp'
-
+import coreJava2 from './coreJavaBook2.jpg'
+import programmingInJava from './programming-in-java.jpg'
+import reactReady from './react_ready.png'
+import masteringReact from './masteringReact.jpeg'
+import roadToReact from './roadToReact.png'
+import learningSpringBoot from './learningSpringBoot.jpg'
+import learningSpring from './learningSpring.png'
+import comptAndBooks from './computerandbooks.webp'
+import cleanCode from './cleancodeBook.jpg'
+import programmingC from './programmingC.png'
+import introToPython from './introToPython.png'
 
 import customer1 from './customer1.jpeg'
 import customer2 from './customer2.svg'
@@ -30,6 +40,7 @@ import shoe7 from './shoe7.svg'
 import shoe8 from './shoe8.svg'
 import image from './image.svg'
 import coreJavaBooksvg from './coreJavaBook.svg'
+import masteringCode from './masteringcode.jpeg'
 
 
 import thumbnailBackground from './thumbnail-background.svg'
@@ -54,9 +65,19 @@ export {
     codingbooks,
     crackingCodeInterview,
     codeInterview2,
-
-
+coreJava2,
+programmingInJava,
+reactReady,
+masteringReact,
+roadToReact,
     computerBooks,
+    learningSpringBoot,
+    learningSpring,
+    comptAndBooks,
+    cleanCode,
+    masteringCode,
+    programmingC,
+    introToPython,
 
     customer1,
     customer2,
