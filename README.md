@@ -7,6 +7,10 @@ Welcome to Tech Reads, a technical bookshop clone built with React, and Tailwind
 ## Hosted on AWS Amplify, 
 [URL Link]( https://main.d3t1bpwt79txk6.amplifyapp.com )
 
+![Screenshot 2024-12-10 at 7 56 03 PM](https://github.com/user-attachments/assets/0dab0752-a5f7-4853-9ed9-9c913687dd03)
+
+<img width="1348" alt="Screenshot 2024-12-31 at 11 30 50 AM" src="https://github.com/user-attachments/assets/6157e5f2-e66f-4ead-9637-6ad885319202" />
+
 ## Features
 
 Browse a variety of technical books.
