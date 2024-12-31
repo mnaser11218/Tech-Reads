@@ -1,6 +1,8 @@
-## Tech Reads 
-Technical Bookshop Clone
-Welcome to the Technical Bookshop Clone! This is a web application designed to replicate an online bookshop with a focus on technical books. The app is built using React for the frontend, styled with Tailwind CSS, and hosted on AWS Amplify.
+<img src="./src/assets/images/twobooks.png" alt="Logo of the project" align="right" width="75">
+
+# Tech Reads &middot; [![Build Status](https://img.shields.io/travis/npm/npm/latest.svg?style=flat-square)](https://travis-ci.org/npm/npm) [![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://www.npmjs.com/package/npm) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
+
+Welcome to Tech Reads, a technical bookshop clone built with React, and Tailwind CSS! This web application emulates an online bookstore featuring popular technical books. It is developed using React and Vite for the frontend, styled with Tailwind CSS, and deployed on AWS Amplify.
 
 ## Hosted on AWS Amplify, 
 [URL Link]( https://main.d3t1bpwt79txk6.amplifyapp.com )
@@ -14,11 +16,7 @@ Responsive design optimized for both desktop and mobile users.
 
 ## Tech Stack
 
-Frontend: React, Vite
-
-Styling: Tailwind CSS
-
-Hosting: AWS Amplify
+Frontend: React, Vite, Styling: Tailwind CSS, Hosting: AWS Amplify
 
 
 ## Installation
@@ -28,53 +26,21 @@ Make sure you have the following installed on your machine:
 
 Node.js (v14.x or above)
 
-npm or yarn
-
-Steps to Run Locally
-
-Clone the repository:
-
-bash
-
-Copy code
-
+```shell
 git clone https://github.com/mnaser11218/Tech-Reads.git
-
-cd Tech-Reads
-
-Install dependencies:
-
-Using npm:
-
-bash
-
-Copy code
-
+cd Tech-Reads/
 npm install
 
-Or using yarn:
-
-bash
-
-Copy code
-
-yarn install
+If you're using yarn: yarn install
+```
 
 Start the development server:
 
-bash
-
-Copy code
-
+```shell
 npm start
 
-Or with yarn:
-
-bash
-
-Copy code
-
-yarn start
+If you're using yarn: yarn start
+```
 
 Open your browser and go to http://localhost:3000.
 
@@ -84,30 +50,11 @@ This app is hosted on AWS Amplify for continuous deployment. Any changes pushed 
 
 For detailed information on how the deployment is set up, refer to the AWS Amplify documentation.
 
-Build and deploy manually
-
-To build and deploy the app manually:
-
-Run the build command to create a production-ready build:
-
-bash
-
-Copy code
-
-npm run build
-
-Push the build to your Amplify app (if not using auto-deployment):
-
-Follow AWS Amplify documentation to link your repository to Amplify.
-Upload the build folder to the Amplify console or use Amplify CLI to deploy.
-
 
 ## Project Structure
 
-bash
 
-Copy code
-
+```shell
 /public               # Public static files like index.html
 
 /src                  # React source code
@@ -125,8 +72,9 @@ App.js                # Main React component
 index.js            # Entry point for React app
 
 tailwind.config.js  # Tailwind CSS configuration
+```
 
-Tailwind CSS Setup
+## Tailwind CSS Setup
 
 Tailwind CSS is configured using the default setup. All styles can be customized in the tailwind.config.js file.
 
@@ -146,8 +94,3 @@ Please ensure that your code follows the style guidelines and passes any existin
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-Acknowledgments
-React - JavaScript library for building user interfaces.
-Tailwind CSS - Utility-first CSS framework.
-AWS Amplify - Full-stack app hosting and backend as a service.
