@@ -3,7 +3,7 @@ Technical Bookshop Clone
 Welcome to the Technical Bookshop Clone! This is a web application designed to replicate an online bookshop with a focus on technical books. The app is built using React for the frontend, styled with Tailwind CSS, and hosted on AWS Amplify.
 
 ## Hosted on AWS Amplify, 
-[URL Link]( main.d3t1bpwt79txk6.amplifyapp.com )
+[URL Link]( https://main.d3t1bpwt79txk6.amplifyapp.com )
 
 ## Features
 
